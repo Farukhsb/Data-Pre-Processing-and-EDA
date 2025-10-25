@@ -22,5 +22,5 @@ Urgency of admission where
 0 => No Urgency - everyone else
 ### Findings 
 - Among all age groups, the 40-50 age group exhibited the highest level of urgency for hospital bed requirements. 
-- Among patients with an urgent need for hospitalisation, fever was identified as the most common symptom. It was observed in [insert percentage] of patients requiring urgent hospitalisation.
+- Among patients with an urgent need for hospitalisation, fever was identified as the most common symptom. .
 - Notably, patients without an urgent need for hospitalisation exhibited a higher prevalence of cough symptoms compared to those requiring urgent care. Specifically, about 70% of patients without urgency presented with cough symptoms, while 30% of patients with urgency exhibited similar symptoms
